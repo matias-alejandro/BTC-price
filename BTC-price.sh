@@ -1,9 +1,7 @@
 #!/bin/bash
 
 #Config
-pathStatsFile=""
 pathLastPrice="$HOME/.config/polybar/scripts/BTC-price/lastPrice.btc"
-showPercent=true
 
 #Colors
 green="%{F#57eba3}"
