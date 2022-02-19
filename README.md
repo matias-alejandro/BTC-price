@@ -6,10 +6,10 @@ type = custom/script
 interval = 30
 
 format = <label>
-format-foreground = ${color.blanco}
+format-foreground = #9090a7
 
 format-prefix = " "
-format-prefix-foreground = ${color.amarillo}
+format-prefix-foreground = #fedd49
 
 exec = ~/.config/polybar/scripts/BTC-price/BTC-price.sh
 
