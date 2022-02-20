@@ -7,7 +7,7 @@ Bitcoin price viewer module for polybar
 
 ### Installation
 ```
-git clone `https://github.com/matias-alejandro/BTC-price.git`
+git clone https://github.com/matias-alejandro/BTC-price.git
 cd BTC-price
 ./install.sh
 ```
